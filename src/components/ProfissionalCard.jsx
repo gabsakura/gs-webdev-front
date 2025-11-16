@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Component for displaying professional card
 const ProfissionalCard = ({ profissional, onClick }) => {
   return (
     <div
