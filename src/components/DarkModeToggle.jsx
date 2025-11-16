@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Component for dark mode toggle
 const DarkModeToggle = ({ darkMode, toggleDarkMode }) => {
   return (
     <button
