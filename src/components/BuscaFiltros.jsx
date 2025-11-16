@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Component for search and filters
 const BuscaFiltros = ({
   busca,
   setBusca,
