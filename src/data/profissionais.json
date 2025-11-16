@@ -1,0 +1,4785 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Silva",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Backend Developer",
+    "resumo": "Especialista em AWS com 5 anos de experiência.",
+    "localizacao": "Brasília/DF",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Kotlin",
+      "Rust",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Organização",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "QA Engineer",
+        "inicio": "2018-11",
+        "fim": "2020-07",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Scrum Master",
+        "inicio": "2019-01",
+        "fim": "2021-01",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Mobile Developer",
+        "inicio": "2020-07",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "PUC",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      },
+      {
+        "titulo": "Projeto 3",
+        "link": "https://github.com/usuario/projeto3",
+        "descricao": "Descrição do projeto 3"
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Diversidade",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Bruno Santos",
+    "foto": "https://i.pravatar.cc/150?img=2",
+    "cargo": "Tech Lead",
+    "resumo": "Especialista em Python com 6 anos de experiência.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "Vue.js",
+      "Flutter",
+      "Rust",
+      "Angular"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Comunicação",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Machine Learning Engineer",
+        "inicio": "2018-07",
+        "fim": "2020-06",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "QA Engineer",
+        "inicio": "2019-12",
+        "fim": "2021-04",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Cybersecurity Specialist",
+        "inicio": "2020-11",
+        "fim": "2022-01",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2021-04",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "UNICAMP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Pesquisa",
+      "Empreendedorismo",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Carlos Oliveira",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "cargo": "Designer Gráfico",
+    "resumo": "Especialista em JavaScript com 7 anos de experiência.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "TypeScript",
+      "PHP",
+      "Angular"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Pensamento Crítico",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Data Scientist",
+        "inicio": "2018-03",
+        "fim": "2020-10",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2019-11",
+        "fim": "2021-04",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Machine Learning Engineer",
+        "inicio": "2020-06",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "PUC",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Diana Costa",
+    "foto": "https://i.pravatar.cc/150?img=4",
+    "cargo": "Mobile Developer",
+    "resumo": "Especialista em PHP com 8 anos de experiência.",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "PHP",
+      "Rust",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade",
+      "Pensamento Crítico",
+      "Liderança",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Product Manager",
+        "inicio": "2018-06",
+        "fim": "2020-03",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "DevOps Engineer",
+        "inicio": "2019-08",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "PUC",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Pesquisa",
+      "Educação",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Eduardo Lima",
+    "foto": "https://i.pravatar.cc/150?img=5",
+    "cargo": "Machine Learning Engineer",
+    "resumo": "Especialista em TypeScript com 9 anos de experiência.",
+    "localizacao": "Brasília/DF",
+    "area": "Consultoria",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Python"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento Crítico",
+      "Organização",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Product Manager",
+        "inicio": "2018-11",
+        "fim": "2020-02",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Frontend Developer",
+        "inicio": "2019-12",
+        "fim": "2021-07",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2020-09",
+        "fim": "2022-01",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Designer Gráfico",
+        "inicio": "2021-08",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "FIAP",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Pesquisa",
+      "Inovação"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Fernanda Alves",
+    "foto": "https://i.pravatar.cc/150?img=6",
+    "cargo": "CTO",
+    "resumo": "Especialista em Node.js com 10 anos de experiência.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Vendas",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "PHP",
+      "Kubernetes",
+      "Rust"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Proatividade",
+      "Organização",
+      "Criatividade",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Designer Gráfico",
+        "inicio": "2018-07",
+        "fim": "2020-10",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Frontend Developer",
+        "inicio": "2019-12",
+        "fim": "2021-06",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Tech Lead",
+        "inicio": "2020-05",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "PUC",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      },
+      {
+        "titulo": "Projeto 3",
+        "link": "https://github.com/usuario/projeto3",
+        "descricao": "Descrição do projeto 3"
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Diversidade",
+      "Sustentabilidade",
+      "Pesquisa"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Gabriel Rocha",
+    "foto": "https://i.pravatar.cc/150?img=7",
+    "cargo": "Scrum Master",
+    "resumo": "Especialista em Node.js com 11 anos de experiência.",
+    "localizacao": "Curitiba/PR",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "AWS",
+      "TypeScript",
+      "Vue.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em Equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Cloud Architect",
+        "inicio": "2018-02",
+        "fim": "2020-09",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Data Scientist",
+        "inicio": "2019-11",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "UNICAMP",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Empreendedorismo",
+      "Pesquisa"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Helena Martins",
+    "foto": "https://i.pravatar.cc/150?img=8",
+    "cargo": "DevOps Engineer",
+    "resumo": "Especialista em Python com 12 anos de experiência.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Python",
+      "React",
+      "Docker",
+      "TypeScript",
+      "Vue.js",
+      "Java"
+    ],
+    "softSkills": [
+      "Organização",
+      "Resiliência",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2018-09",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "UNICAMP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Tecnologia",
+      "Inovação",
+      "Diversidade",
+      "Educação"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Igor Souza",
+    "foto": "https://i.pravatar.cc/150?img=9",
+    "cargo": "Designer Gráfico",
+    "resumo": "Especialista em Flutter com 13 anos de experiência.",
+    "localizacao": "Recife/PE",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Flutter",
+      "Rust",
+      "Python",
+      "TypeScript",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Empatia",
+      "Criatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Cybersecurity Specialist",
+        "inicio": "2018-08",
+        "fim": "2020-09",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2019-12",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "PUC",
+        "ano": 2017
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Empreendedorismo",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Julia Ferreira",
+    "foto": "https://i.pravatar.cc/150?img=10",
+    "cargo": "Frontend Developer",
+    "resumo": "Especialista em MongoDB com 14 anos de experiência.",
+    "localizacao": "Manaus/AM",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "MongoDB",
+      "Go",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Adaptabilidade",
+      "Criatividade",
+      "Pensamento Crítico",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Data Scientist",
+        "inicio": "2018-07",
+        "fim": "2020-08",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Mobile Developer",
+        "inicio": "2019-11",
+        "fim": "2021-02",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Data Scientist",
+        "inicio": "2020-12",
+        "fim": "2022-02",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Machine Learning Engineer",
+        "inicio": "2021-03",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "USP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Kleber Dias",
+    "foto": "https://i.pravatar.cc/150?img=11",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Especialista em Java com 15 anos de experiência.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Java",
+      "C#",
+      "SQL",
+      "Go",
+      "Kotlin",
+      "Docker"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Liderança",
+      "Pensamento Crítico",
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "UX/UI Designer",
+        "inicio": "2018-11",
+        "fim": "2020-01",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2019-04",
+        "fim": "2021-05",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Data Scientist",
+        "inicio": "2020-04",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "USP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Empreendedorismo",
+      "Educação",
+      "Inovação"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Larissa Ramos",
+    "foto": "https://i.pravatar.cc/150?img=12",
+    "cargo": "Tech Lead",
+    "resumo": "Especialista em Java com 16 anos de experiência.",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Java",
+      "Python",
+      "Flutter",
+      "Rust",
+      "PHP"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Comunicação",
+      "Criatividade",
+      "Trabalho em Equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Product Manager",
+        "inicio": "2018-05",
+        "fim": "2020-07",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Designer Gráfico",
+        "inicio": "2019-03",
+        "fim": "2021-12",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Scrum Master",
+        "inicio": "2020-08",
+        "fim": "2022-09",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Designer Gráfico",
+        "inicio": "2021-04",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      },
+      {
+        "titulo": "Projeto 3",
+        "link": "https://github.com/usuario/projeto3",
+        "descricao": "Descrição do projeto 3"
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Inovação",
+      "Educação"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Marcos Pereira",
+    "foto": "https://i.pravatar.cc/150?img=13",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Especialista em React com 17 anos de experiência.",
+    "localizacao": "Manaus/AM",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "React",
+      "Kubernetes",
+      "SQL",
+      "Java",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Cloud Architect",
+        "inicio": "2018-12",
+        "fim": "2020-05",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Cloud Architect",
+        "inicio": "2019-12",
+        "fim": "2021-08",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "CTO",
+        "inicio": "2020-05",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "PUC",
+        "ano": 2015
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Educação",
+      "Diversidade",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Natália Barbosa",
+    "foto": "https://i.pravatar.cc/150?img=14",
+    "cargo": "Frontend Developer",
+    "resumo": "Especialista em Kubernetes com 18 anos de experiência.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Flutter",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Data Scientist",
+        "inicio": "2018-04",
+        "fim": "2020-12",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2019-07",
+        "fim": "2021-10",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "UX/UI Designer",
+        "inicio": "2020-03",
+        "fim": "2022-08",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Mobile Developer",
+        "inicio": "2021-10",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "PUC",
+        "ano": 2017
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Sustentabilidade",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Otávio Nunes",
+    "foto": "https://i.pravatar.cc/150?img=15",
+    "cargo": "Machine Learning Engineer",
+    "resumo": "Especialista em C# com 19 anos de experiência.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "C#",
+      "PHP",
+      "Python",
+      "Node.js",
+      "Flutter"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Proatividade",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2018-01",
+        "fim": "2020-07",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "QA Engineer",
+        "inicio": "2019-04",
+        "fim": "2021-06",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2020-12",
+        "fim": "2022-09",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-12",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "PUC",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      },
+      {
+        "titulo": "Projeto 3",
+        "link": "https://github.com/usuario/projeto3",
+        "descricao": "Descrição do projeto 3"
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Empreendedorismo",
+      "Tecnologia",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Patrícia Carvalho",
+    "foto": "https://i.pravatar.cc/150?img=16",
+    "cargo": "Mobile Developer",
+    "resumo": "Especialista em AWS com 20 anos de experiência.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Rust",
+      "Go"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Pensamento Crítico",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2018-07",
+        "fim": "2020-12",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "CTO",
+        "inicio": "2019-06",
+        "fim": "2021-05",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Designer Gráfico",
+        "inicio": "2020-04",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "UFMG",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "IA ética",
+      "Sustentabilidade",
+      "Inovação"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Rafael Mendes",
+    "foto": "https://i.pravatar.cc/150?img=17",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Especialista em SQL com 21 anos de experiência.",
+    "localizacao": "Brasília/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Swift",
+      "Flutter",
+      "Node.js",
+      "Docker"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2018-08",
+        "fim": "2020-08",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Frontend Developer",
+        "inicio": "2019-03",
+        "fim": "2021-11",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Cybersecurity Specialist",
+        "inicio": "2020-05",
+        "fim": "2022-05",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2021-12",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "PUC",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação",
+      "Tecnologia",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Sandra Gomes",
+    "foto": "https://i.pravatar.cc/150?img=18",
+    "cargo": "DevOps Engineer",
+    "resumo": "Especialista em React com 22 anos de experiência.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "React",
+      "Kotlin",
+      "Vue.js"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2018-12",
+        "fim": "2020-11",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Scrum Master",
+        "inicio": "2019-11",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "PUC",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure",
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Empreendedorismo"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Thiago Araújo",
+    "foto": "https://i.pravatar.cc/150?img=19",
+    "cargo": "Cybersecurity Specialist",
+    "resumo": "Especialista em React com 23 anos de experiência.",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "Docker",
+      "AWS",
+      "Java",
+      "Angular",
+      "Go"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Pensamento Crítico",
+      "Criatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Mobile Developer",
+        "inicio": "2018-07",
+        "fim": "2020-09",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2019-09",
+        "fim": "2021-06",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Machine Learning Engineer",
+        "inicio": "2020-07",
+        "fim": "2022-07",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Scrum Master",
+        "inicio": "2021-03",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "UFMG",
+        "ano": 2017
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "AWS Certified",
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Empreendedorismo",
+      "Educação",
+      "Pesquisa"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Vanessa Ribeiro",
+    "foto": "https://i.pravatar.cc/150?img=20",
+    "cargo": "UX/UI Designer",
+    "resumo": "Especialista em C# com 24 anos de experiência.",
+    "localizacao": "Manaus/AM",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "C#",
+      "Docker",
+      "PHP",
+      "Vue.js",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Resiliência",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Product Manager",
+        "inicio": "2018-11",
+        "fim": "2020-09",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Cybersecurity Specialist",
+        "inicio": "2019-07",
+        "fim": "2021-03",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2020-07",
+        "fim": "2022-10",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Product Manager",
+        "inicio": "2021-05",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Wagner Teixeira",
+    "foto": "https://i.pravatar.cc/150?img=21",
+    "cargo": "CTO",
+    "resumo": "Especialista em Rust com 25 anos de experiência.",
+    "localizacao": "Manaus/AM",
+    "area": "Vendas",
+    "habilidadesTecnicas": [
+      "Rust",
+      "Kotlin",
+      "Kubernetes",
+      "Swift"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Adaptabilidade",
+      "Organização",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2018-01",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "UNICAMP",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Yasmin Lopes",
+    "foto": "https://i.pravatar.cc/150?img=22",
+    "cargo": "Engenheiro de Dados",
+    "resumo": "Especialista em Flutter com 26 anos de experiência.",
+    "localizacao": "Brasília/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Flutter",
+      "TypeScript",
+      "JavaScript",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Cybersecurity Specialist",
+        "inicio": "2018-09",
+        "fim": "2020-04",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "DevOps Engineer",
+        "inicio": "2019-12",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      },
+      {
+        "titulo": "Projeto 3",
+        "link": "https://github.com/usuario/projeto3",
+        "descricao": "Descrição do projeto 3"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Pesquisa",
+      "Sustentabilidade",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Zeca Moreira",
+    "foto": "https://i.pravatar.cc/150?img=23",
+    "cargo": "Mobile Developer",
+    "resumo": "Especialista em JavaScript com 27 anos de experiência.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Cybersecurity Specialist",
+        "inicio": "2018-07",
+        "fim": "2020-09",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "DevOps Engineer",
+        "inicio": "2019-10",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "UNICAMP",
+        "ano": 2017
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "UNICAMP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      },
+      {
+        "titulo": "Projeto 3",
+        "link": "https://github.com/usuario/projeto3",
+        "descricao": "Descrição do projeto 3"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Diversidade",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Amanda Freitas",
+    "foto": "https://i.pravatar.cc/150?img=24",
+    "cargo": "Cybersecurity Specialist",
+    "resumo": "Especialista em Go com 28 anos de experiência.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Consultoria",
+    "habilidadesTecnicas": [
+      "Go",
+      "Java",
+      "Kubernetes",
+      "Python"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Tech Lead",
+        "inicio": "2018-03",
+        "fim": "2020-05",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-10",
+        "fim": "2021-11",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "DevOps Engineer",
+        "inicio": "2020-06",
+        "fim": "2022-08",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Product Manager",
+        "inicio": "2021-11",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "UNICAMP",
+        "ano": 2017
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "PUC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Pesquisa",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Breno Castro",
+    "foto": "https://i.pravatar.cc/150?img=25",
+    "cargo": "Machine Learning Engineer",
+    "resumo": "Especialista em Swift com 29 anos de experiência.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Swift",
+      "C#",
+      "Kotlin",
+      "Python",
+      "Java",
+      "TypeScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Pensamento Crítico",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Scrum Master",
+        "inicio": "2018-09",
+        "fim": "2020-08",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Mobile Developer",
+        "inicio": "2019-04",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "UFMG",
+        "ano": 2017
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Scrum Master",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Empreendedorismo",
+      "Sustentabilidade",
+      "Inovação",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Camila Duarte",
+    "foto": "https://i.pravatar.cc/150?img=26",
+    "cargo": "Scrum Master",
+    "resumo": "Especialista em Node.js com 30 anos de experiência.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Angular",
+      "Flutter",
+      "AWS",
+      "SQL",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Proatividade",
+      "Criatividade",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Cloud Architect",
+        "inicio": "2018-12",
+        "fim": "2020-10",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Scrum Master",
+        "inicio": "2019-07",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "PUC",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Google Cloud",
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação",
+      "Sustentabilidade",
+      "Empreendedorismo"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Daniel Henrique",
+    "foto": "https://i.pravatar.cc/150?img=27",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Especialista em Vue.js com 31 anos de experiência.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "Python",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Empatia",
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Product Manager",
+        "inicio": "2018-09",
+        "fim": "2020-06",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "UX/UI Designer",
+        "inicio": "2019-12",
+        "fim": "2021-06",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Cybersecurity Specialist",
+        "inicio": "2020-07",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "FIAP",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "UNICAMP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Diversidade",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Elisa Moura",
+    "foto": "https://i.pravatar.cc/150?img=28",
+    "cargo": "Product Manager",
+    "resumo": "Especialista em Kotlin com 32 anos de experiência.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Kotlin",
+      "AWS",
+      "Kubernetes",
+      "Rust",
+      "SQL"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Pensamento Crítico",
+      "Criatividade",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "DevOps Engineer",
+        "inicio": "2018-07",
+        "fim": "2020-05",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Backend Developer",
+        "inicio": "2019-02",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Diversidade",
+      "Inovação",
+      "Empreendedorismo"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Fábio Correia",
+    "foto": "https://i.pravatar.cc/150?img=29",
+    "cargo": "CTO",
+    "resumo": "Especialista em Kotlin com 33 anos de experiência.",
+    "localizacao": "Manaus/AM",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Kotlin",
+      "Go",
+      "Flutter",
+      "TypeScript",
+      "C#"
+    ],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Pensamento Crítico",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Backend Developer",
+        "inicio": "2018-06",
+        "fim": "2020-02",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2019-11",
+        "fim": "2021-01",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Machine Learning Engineer",
+        "inicio": "2020-07",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "PUC",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      },
+      {
+        "titulo": "Projeto 3",
+        "link": "https://github.com/usuario/projeto3",
+        "descricao": "Descrição do projeto 3"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Empreendedorismo"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Giovanna Azevedo",
+    "foto": "https://i.pravatar.cc/150?img=30",
+    "cargo": "Frontend Developer",
+    "resumo": "Especialista em Kotlin com 34 anos de experiência.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Kotlin",
+      "PHP",
+      "Rust",
+      "AWS",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento Crítico",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "DevOps Engineer",
+        "inicio": "2018-08",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "FIAP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      },
+      {
+        "titulo": "Projeto 3",
+        "link": "https://github.com/usuario/projeto3",
+        "descricao": "Descrição do projeto 3"
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Empreendedorismo",
+      "Sustentabilidade",
+      "Tecnologia",
+      "Inovação"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Henrique Monteiro",
+    "foto": "https://i.pravatar.cc/150?img=31",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Especialista em TypeScript com 35 anos de experiência.",
+    "localizacao": "Manaus/AM",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "React"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Pensamento Crítico",
+      "Empatia",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Mobile Developer",
+        "inicio": "2018-06",
+        "fim": "2020-04",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "UX/UI Designer",
+        "inicio": "2019-09",
+        "fim": "2021-01",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "CTO",
+        "inicio": "2020-05",
+        "fim": "2022-09",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "CTO",
+        "inicio": "2021-09",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "PUC",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      },
+      {
+        "titulo": "Projeto 3",
+        "link": "https://github.com/usuario/projeto3",
+        "descricao": "Descrição do projeto 3"
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Diversidade",
+      "Empreendedorismo",
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Isabela Cardoso",
+    "foto": "https://i.pravatar.cc/150?img=32",
+    "cargo": "Product Manager",
+    "resumo": "Especialista em Java com 36 anos de experiência.",
+    "localizacao": "Manaus/AM",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Java",
+      "Flutter"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pensamento Crítico",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Cloud Architect",
+        "inicio": "2018-07",
+        "fim": "2020-01",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2019-08",
+        "fim": "2021-06",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Frontend Developer",
+        "inicio": "2020-07",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Educação",
+      "Sustentabilidade",
+      "Empreendedorismo"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "João Vitor",
+    "foto": "https://i.pravatar.cc/150?img=33",
+    "cargo": "QA Engineer",
+    "resumo": "Especialista em AWS com 37 anos de experiência.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "AWS",
+      "React",
+      "SQL",
+      "Rust"
+    ],
+    "softSkills": [
+      "Organização",
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "UX/UI Designer",
+        "inicio": "2018-04",
+        "fim": "2020-07",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Data Scientist",
+        "inicio": "2019-05",
+        "fim": "2021-11",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Machine Learning Engineer",
+        "inicio": "2020-10",
+        "fim": "2022-11",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2021-01",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      },
+      {
+        "titulo": "Projeto 3",
+        "link": "https://github.com/usuario/projeto3",
+        "descricao": "Descrição do projeto 3"
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Pesquisa",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Karina Pinheiro",
+    "foto": "https://i.pravatar.cc/150?img=34",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Especialista em Rust com 38 anos de experiência.",
+    "localizacao": "São Paulo/SP",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Rust",
+      "Python",
+      "Angular",
+      "Flutter"
+    ],
+    "softSkills": [
+      "Organização",
+      "Proatividade",
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2018-07",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "PUC",
+        "ano": 2017
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Leonardo Farias",
+    "foto": "https://i.pravatar.cc/150?img=35",
+    "cargo": "Mobile Developer",
+    "resumo": "Especialista em Flutter com 39 anos de experiência.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Vendas",
+    "habilidadesTecnicas": [
+      "Flutter",
+      "Docker",
+      "Python",
+      "Kubernetes",
+      "React",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Criatividade",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Data Scientist",
+        "inicio": "2018-04",
+        "fim": "2020-09",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "CTO",
+        "inicio": "2019-09",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "UFMG",
+        "ano": 2017
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação",
+      "Pesquisa"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Mariana Torres",
+    "foto": "https://i.pravatar.cc/150?img=36",
+    "cargo": "Cybersecurity Specialist",
+    "resumo": "Especialista em Python com 40 anos de experiência.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Python",
+      "Kotlin",
+      "Node.js",
+      "Rust"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Proatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Frontend Developer",
+        "inicio": "2018-03",
+        "fim": "2020-11",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2019-02",
+        "fim": "2021-02",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2020-08",
+        "fim": "2022-12",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Designer Gráfico",
+        "inicio": "2021-01",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "UFMG",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      },
+      {
+        "titulo": "Projeto 3",
+        "link": "https://github.com/usuario/projeto3",
+        "descricao": "Descrição do projeto 3"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Tecnologia",
+      "IA ética",
+      "Pesquisa"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Nicolas Barros",
+    "foto": "https://i.pravatar.cc/150?img=37",
+    "cargo": "CTO",
+    "resumo": "Especialista em Rust com 41 anos de experiência.",
+    "localizacao": "Manaus/AM",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Rust",
+      "SQL",
+      "Flutter"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência",
+      "Pensamento Crítico",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2018-08",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Diversidade",
+      "Empreendedorismo"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Olivia Rezende",
+    "foto": "https://i.pravatar.cc/150?img=38",
+    "cargo": "UX/UI Designer",
+    "resumo": "Especialista em Go com 42 anos de experiência.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Go",
+      "PHP",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Proatividade",
+      "Organização",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Backend Developer",
+        "inicio": "2018-02",
+        "fim": "2020-03",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Frontend Developer",
+        "inicio": "2019-06",
+        "fim": "2021-08",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Scrum Master",
+        "inicio": "2020-08",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "FIAP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Empreendedorismo",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Paulo César",
+    "foto": "https://i.pravatar.cc/150?img=39",
+    "cargo": "Engenheiro de Dados",
+    "resumo": "Especialista em SQL com 43 anos de experiência.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Consultoria",
+    "habilidadesTecnicas": [
+      "SQL",
+      "TypeScript",
+      "AWS",
+      "Node.js",
+      "Rust",
+      "PHP"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Criatividade",
+      "Resiliência",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Frontend Developer",
+        "inicio": "2018-03",
+        "fim": "2020-05",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2019-02",
+        "fim": "2021-10",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Machine Learning Engineer",
+        "inicio": "2020-08",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Google Cloud",
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Diversidade",
+      "Inovação",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Renata Vasconcelos",
+    "foto": "https://i.pravatar.cc/150?img=40",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Especialista em Kubernetes com 44 anos de experiência.",
+    "localizacao": "Brasília/DF",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "SQL",
+      "MongoDB",
+      "TypeScript",
+      "Vue.js"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Criatividade",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Cybersecurity Specialist",
+        "inicio": "2018-02",
+        "fim": "2020-05",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-05",
+        "fim": "2021-02",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Machine Learning Engineer",
+        "inicio": "2020-09",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "USP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Inovação"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Sérgio Campos",
+    "foto": "https://i.pravatar.cc/150?img=41",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Especialista em Java com 45 anos de experiência.",
+    "localizacao": "Manaus/AM",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Java",
+      "Python",
+      "Go",
+      "Flutter"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Proatividade",
+      "Adaptabilidade",
+      "Organização",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "QA Engineer",
+        "inicio": "2018-04",
+        "fim": "2020-09",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Tech Lead",
+        "inicio": "2019-06",
+        "fim": "2021-09",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Cybersecurity Specialist",
+        "inicio": "2020-02",
+        "fim": "2022-09",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2021-07",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "UNICAMP",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Empreendedorismo",
+      "Diversidade",
+      "Pesquisa"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Tatiana Nascimento",
+    "foto": "https://i.pravatar.cc/150?img=42",
+    "cargo": "CTO",
+    "resumo": "Especialista em C# com 46 anos de experiência.",
+    "localizacao": "Brasília/DF",
+    "area": "Consultoria",
+    "habilidadesTecnicas": [
+      "C#",
+      "React",
+      "AWS",
+      "Flutter",
+      "PHP"
+    ],
+    "softSkills": [
+      "Organização",
+      "Resiliência",
+      "Empatia",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Scrum Master",
+        "inicio": "2018-03",
+        "fim": "2020-01",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Product Manager",
+        "inicio": "2019-03",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Inovação",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Ulisses Pires",
+    "foto": "https://i.pravatar.cc/150?img=43",
+    "cargo": "Designer Gráfico",
+    "resumo": "Especialista em JavaScript com 47 anos de experiência.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Go",
+      "Docker",
+      "PHP",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em Equipe",
+      "Organização",
+      "Resiliência",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Frontend Developer",
+        "inicio": "2018-05",
+        "fim": "2020-03",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "CTO",
+        "inicio": "2019-08",
+        "fim": "2021-06",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2020-05",
+        "fim": "2022-09",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "QA Engineer",
+        "inicio": "2021-08",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "UFMG",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      },
+      {
+        "titulo": "Projeto 3",
+        "link": "https://github.com/usuario/projeto3",
+        "descricao": "Descrição do projeto 3"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Educação",
+      "Diversidade",
+      "Empreendedorismo"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Viviane Machado",
+    "foto": "https://i.pravatar.cc/150?img=44",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Especialista em Rust com 48 anos de experiência.",
+    "localizacao": "São Paulo/SP",
+    "area": "Consultoria",
+    "habilidadesTecnicas": [
+      "Rust",
+      "Go",
+      "JavaScript",
+      "Swift",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Empatia",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Frontend Developer",
+        "inicio": "2018-04",
+        "fim": "2020-07",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Data Scientist",
+        "inicio": "2019-07",
+        "fim": "2021-07",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2020-06",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "USP",
+        "ano": 2017
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "PUC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Microsoft Azure",
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Sustentabilidade",
+      "Pesquisa",
+      "Empreendedorismo"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "William Cunha",
+    "foto": "https://i.pravatar.cc/150?img=45",
+    "cargo": "Engenheiro de Dados",
+    "resumo": "Especialista em React com 49 anos de experiência.",
+    "localizacao": "Recife/PE",
+    "area": "Vendas",
+    "habilidadesTecnicas": [
+      "React",
+      "SQL",
+      "Java",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Organização",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Scrum Master",
+        "inicio": "2018-03",
+        "fim": "2020-07",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Product Manager",
+        "inicio": "2019-05",
+        "fim": "2021-11",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Tech Lead",
+        "inicio": "2020-06",
+        "fim": "2022-10",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Designer Gráfico",
+        "inicio": "2021-05",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "PUC",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      },
+      {
+        "titulo": "Projeto 3",
+        "link": "https://github.com/usuario/projeto3",
+        "descricao": "Descrição do projeto 3"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Pesquisa",
+      "Inovação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Ximena Andrade",
+    "foto": "https://i.pravatar.cc/150?img=46",
+    "cargo": "Engenheiro de Dados",
+    "resumo": "Especialista em Flutter com 50 anos de experiência.",
+    "localizacao": "Salvador/BA",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Flutter",
+      "Go",
+      "MongoDB",
+      "Vue.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento Crítico",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Scrum Master",
+        "inicio": "2018-09",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "PUC",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Microsoft Azure"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Yuri Batista",
+    "foto": "https://i.pravatar.cc/150?img=47",
+    "cargo": "DevOps Engineer",
+    "resumo": "Especialista em PHP com 51 anos de experiência.",
+    "localizacao": "Brasília/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "PHP",
+      "TypeScript",
+      "MongoDB",
+      "Java"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "UX/UI Designer",
+        "inicio": "2018-03",
+        "fim": "2020-10",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Cloud Architect",
+        "inicio": "2019-02",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "FIAP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Diversidade",
+      "Empreendedorismo",
+      "Sustentabilidade",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Zara Melo",
+    "foto": "https://i.pravatar.cc/150?img=48",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Especialista em Rust com 52 anos de experiência.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Rust",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2018-07",
+        "fim": "2020-07",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2019-06",
+        "fim": "2021-06",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Machine Learning Engineer",
+        "inicio": "2020-02",
+        "fim": "2022-07",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "QA Engineer",
+        "inicio": "2021-05",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "USP",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Google Cloud",
+      "Microsoft Azure"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Pesquisa",
+      "Educação",
+      "Inovação"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Adriana Siqueira",
+    "foto": "https://i.pravatar.cc/150?img=49",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Especialista em Python com 53 anos de experiência.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Python",
+      "Node.js",
+      "PHP",
+      "MongoDB",
+      "React"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Empatia",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Cloud Architect",
+        "inicio": "2018-01",
+        "fim": "2020-10",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Tech Lead",
+        "inicio": "2019-05",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "PUC",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified",
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Bernardo Tavares",
+    "foto": "https://i.pravatar.cc/150?img=50",
+    "cargo": "Data Scientist",
+    "resumo": "Especialista em AWS com 54 anos de experiência.",
+    "localizacao": "São Paulo/SP",
+    "area": "Consultoria",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Vue.js",
+      "React",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Machine Learning Engineer",
+        "inicio": "2018-12",
+        "fim": "2020-10",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Scrum Master",
+        "inicio": "2019-04",
+        "fim": "2021-10",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "QA Engineer",
+        "inicio": "2020-07",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "UNICAMP",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Google Cloud",
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Diversidade",
+      "Tecnologia",
+      "Sustentabilidade",
+      "Educação"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Cecília Rios",
+    "foto": "https://i.pravatar.cc/150?img=51",
+    "cargo": "DevOps Engineer",
+    "resumo": "Especialista em Kubernetes com 55 anos de experiência.",
+    "localizacao": "Brasília/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Vue.js",
+      "Python",
+      "Java"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em Equipe",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "QA Engineer",
+        "inicio": "2018-06",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "UFMG",
+        "ano": 2017
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified",
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Diego Fonseca",
+    "foto": "https://i.pravatar.cc/150?img=52",
+    "cargo": "Scrum Master",
+    "resumo": "Especialista em React com 56 anos de experiência.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "React",
+      "Python",
+      "AWS",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Proatividade",
+      "Liderança",
+      "Organização",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Cloud Architect",
+        "inicio": "2018-02",
+        "fim": "2020-05",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Tech Lead",
+        "inicio": "2019-05",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Empreendedorismo",
+      "Pesquisa",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Ester Medeiros",
+    "foto": "https://i.pravatar.cc/150?img=53",
+    "cargo": "CTO",
+    "resumo": "Especialista em Python com 57 anos de experiência.",
+    "localizacao": "Manaus/AM",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Python",
+      "C#",
+      "AWS",
+      "TypeScript",
+      "Java"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Adaptabilidade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "UX/UI Designer",
+        "inicio": "2018-03",
+        "fim": "2020-05",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Product Manager",
+        "inicio": "2019-04",
+        "fim": "2021-09",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "Designer Gráfico",
+        "inicio": "2020-03",
+        "fim": "2022-12",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "Frontend Developer",
+        "inicio": "2021-09",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "UNICAMP",
+        "ano": 2017
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Google Cloud",
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Educação",
+      "Empreendedorismo",
+      "Inovação"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Felipe Borges",
+    "foto": "https://i.pravatar.cc/150?img=54",
+    "cargo": "Cloud Architect",
+    "resumo": "Especialista em PHP com 58 anos de experiência.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "PHP",
+      "MongoDB",
+      "Docker"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Empatia",
+      "Liderança",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "UX/UI Designer",
+        "inicio": "2018-02",
+        "fim": "2020-03",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2019-02",
+        "fim": "2021-07",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa C",
+        "cargo": "UX/UI Designer",
+        "inicio": "2020-06",
+        "fim": "2022-07",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa D",
+        "cargo": "CTO",
+        "inicio": "2021-09",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "PUC",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "FIAP",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "PUC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Google Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Empreendedorismo",
+      "Educação"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Gabriela Leal",
+    "foto": "https://i.pravatar.cc/150?img=55",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Especialista em C# com 59 anos de experiência.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "C#",
+      "Rust",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "CTO",
+        "inicio": "2018-07",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "PUC",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "UFMG",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "UNICAMP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Microsoft Azure"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Empreendedorismo",
+      "Sustentabilidade",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Hugo Matos",
+    "foto": "https://i.pravatar.cc/150?img=56",
+    "cargo": "Product Manager",
+    "resumo": "Especialista em JavaScript com 60 anos de experiência.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Java"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Resiliência",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Mobile Developer",
+        "inicio": "2018-03",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "PUC",
+        "ano": 2017
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "PUC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure",
+      "Microsoft Azure"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Pesquisa",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Ingrid Sampaio",
+    "foto": "https://i.pravatar.cc/150?img=57",
+    "cargo": "Product Manager",
+    "resumo": "Especialista em C# com 61 anos de experiência.",
+    "localizacao": "Manaus/AM",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "C#",
+      "AWS",
+      "PHP",
+      "Python",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Comunicação",
+      "Liderança",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "QA Engineer",
+        "inicio": "2018-11",
+        "fim": "2020-04",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "QA Engineer",
+        "inicio": "2019-04",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "PUC",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "UFMG",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Júlio César",
+    "foto": "https://i.pravatar.cc/150?img=58",
+    "cargo": "DevOps Engineer",
+    "resumo": "Especialista em Java com 62 anos de experiência.",
+    "localizacao": "São Paulo/SP",
+    "area": "Consultoria",
+    "habilidadesTecnicas": [
+      "Java",
+      "Python",
+      "Go",
+      "MongoDB",
+      "Flutter",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Comunicação",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "DevOps Engineer",
+        "inicio": "2018-10",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "PUC",
+        "ano": 2015
+      },
+      {
+        "curso": "Especialização em Cloud",
+        "instituicao": "FIAP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Pesquisa"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Kelly Vieira",
+    "foto": "https://i.pravatar.cc/150?img=59",
+    "cargo": "Arquiteto de Software",
+    "resumo": "Especialista em SQL com 63 anos de experiência.",
+    "localizacao": "Recife/PE",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Vue.js",
+      "Go",
+      "Swift"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Cybersecurity Specialist",
+        "inicio": "2018-04",
+        "fim": "2020-02",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      },
+      {
+        "empresa": "Empresa B",
+        "cargo": "Cloud Architect",
+        "inicio": "2019-12",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "PUC",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "PUC",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/usuario/projeto1",
+        "descricao": "Descrição do projeto 1"
+      },
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/usuario/projeto2",
+        "descricao": "Descrição do projeto 2"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Pesquisa",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Lucas Xavier",
+    "foto": "https://i.pravatar.cc/150?img=60",
+    "cargo": "Mobile Developer",
+    "resumo": "Especialista em Java com 64 anos de experiência.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Consultoria",
+    "habilidadesTecnicas": [
+      "Java",
+      "Flutter",
+      "AWS",
+      "React",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Adaptabilidade",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Data Scientist",
+        "inicio": "2018-09",
+        "fim": "Atual",
+        "descricao": "Responsável por desenvolvimento e manutenção de sistemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão",
+        "instituicao": "PUC",
+        "ano": 2017
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Inovação",
+      "Pesquisa"
+    ]
+  }
+]
