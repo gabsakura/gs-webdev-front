@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Component for displaying professional profile modal
 const ModalPerfil = ({ profissional, isOpen, onClose, onRecomendar, onEnviarMensagem }) => {
   if (!isOpen || !profissional) return null;
 
