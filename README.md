@@ -115,9 +115,10 @@ Cada perfil contém as seguintes propriedades:
 
 O projeto possui mais de 10 commits organizados, documentando cada etapa do desenvolvimento.
 
-## 👥 Autor
+## 👥 Autores
 
-Desenvolvido para o desafio Global Solution - O Futuro do Trabalho.
+* Gabriel Alexandre Fukushima Sakura RM99522
+* Lucas Henrique Viana Estevam Sena RM566246
 
 ## 📄 Licença
 
